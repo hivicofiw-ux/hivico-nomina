@@ -1,6 +1,0 @@
-streamlit
-pdfplumber
-openpyxl
-pandas
-psycopg2-binary
-reportlab
